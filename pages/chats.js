@@ -32,7 +32,7 @@ export default function Chats() {
       <div className="shadow">
         <ChatEngine
           height="calc(100vh - 200px)"
-          projectID="process.env.projectID"
+          projectID="c2b7af49-8717-4e05-a4cc-62884d5dce6c"
           userName={username}
           userSecret={secret}
           renderNewMessageForm={() => <MessageFormSocial />}
