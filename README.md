@@ -1,5 +1,5 @@
-### Nextjs-chat
-# Run Locally
+# 📱 Nextjs-chat
+# 🔧 Run Locally
 
 Clone the project
 
@@ -26,14 +26,14 @@ Start the server
 ```
 
 
-## Screenshots
+## 📸 Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/bogdanblare/nextjs-chat/main/Screenshot.png)
 
 This project is powered by [Chat Engine](https://chatengine.io).
 
 
-## Setup Finished Project
+## 🚀 Setup Finished Project
 
 
 Go to [Chat Engine](https://chatengine.io) and create a account and project.
